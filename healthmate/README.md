@@ -1,16 +1,22 @@
-# healthmate
+# HealthMate
 
-A new Flutter project.
+Health Mate: เพื่อนร่วมทางสู่สุขภาพที่ดี
+Health Mate แอปพลิเคชั่นที่จะช่วยให้คุณดูแลสุขภาพได้ง่ายขึ้น ด้วยฟีเจอร์ครบครัน ดังนี้
 
-## Getting Started
+1. ติดตามคุณภาพอากาศ:
+ตรวจสอบค่าฝุ่น PM2.5 แบบเรียลไทม์
+แจ้งเตือนเมื่อคุณภาพอากาศไม่ดี
+แนะนำสถานที่ที่มีอากาศบริสุทธิ์
 
-This project is a starting point for a Flutter application.
+2. ค้นหาโรงพยาบาลใกล้เคียง:
+ระบุตำแหน่งโรงพยาบาลที่ใกล้เคียงกับคุณ
+แสดงข้อมูลติดต่อ เวลาทำการ และบริการต่างๆ
+ช่วยให้คุณเข้าถึงการรักษาพยาบาลได้สะดวกรวดเร็ว
 
-A few resources to get you started if this is your first Flutter project:
+3. สถิติผู้ติดเชื้อโควิด:
+ติดตามจำนวนผู้ติดเชื้อโควิดรายวัน
+แสดงข้อมูลรายจังหวัด
+ช่วยให้คุณทราบสถานการณ์การระบาดและวางแผนป้องกันได้อย่างมีประสิทธิภาพ
+Health Mate แอปพลิเคชั่นเดียวที่ครบครันเรื่องสุขภาพ ดาวน์โหลดฟรี!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#HealthMate #สุขภาพ #ฝุ่นPM2.5 #โรงพยาบาล #โควิด
