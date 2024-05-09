@@ -26,7 +26,7 @@ class _mainscreenState extends State<mainscreen> {
         items: [
       BottomNavigationBarItem(icon: Icon(Icons.home),label: 'หน้าแรก'),
       BottomNavigationBarItem(icon: Icon(Icons.local_hospital),label: 'โรงพยาบาล'),
-      BottomNavigationBarItem(icon: Icon(Icons.coronavirus),label: 'หน้าโควิด19'),
+      BottomNavigationBarItem(icon: Icon(Icons.coronavirus),label: 'สถิติโควิด-19'),
     ]);
 
     Widget MyDrawer = Drawer(
