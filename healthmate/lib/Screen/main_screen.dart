@@ -24,7 +24,7 @@ class _mainscreenState extends State<mainscreen> {
           });
         },
         items: [
-      BottomNavigationBarItem(icon: Icon(Icons.home),label: 'หน้าหลัก'),
+      BottomNavigationBarItem(icon: Icon(Icons.home),label: 'หน้าแรก'),
       BottomNavigationBarItem(icon: Icon(Icons.local_hospital),label: 'โรงพยาบาล'),
       BottomNavigationBarItem(icon: Icon(Icons.coronavirus),label: 'หน้าโควิด19'),
     ]);
